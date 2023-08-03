@@ -1,0 +1,15 @@
+#hero {
+    max-width: 1340px;
+    padding-right: 32px;
+    padding-left: 32px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+.container-pages{
+    padding-top: 3em;
+}
+#cakes {
+    max-width: 400px;
+    max-height: auto;
+}
