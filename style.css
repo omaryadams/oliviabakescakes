@@ -13,3 +13,11 @@
     max-width: 400px;
     max-height: auto;
 }
+
+@font-face {
+    font-family: "bobcat";
+    src: url(assets/fonts/BobcatItalic.ttf) format('truetype');
+}
+h1{
+    font-family: "bobcat";
+}
