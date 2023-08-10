@@ -12,6 +12,11 @@
 #cakes {
     max-width: 400px;
     max-height: auto;
+    background-color: #7e9ad3;
+    padding: 12px;
+    border-style: dashed;
+    border-color: #546689;
+    border-width: 2.5px;
 }
 
 @font-face {
@@ -20,4 +25,22 @@
 }
 h1{
     font-family: "bobcat";
+}
+#textbox{
+    background-color: #bd91d5;
+    border-style: dashed;
+    border-color: #bac0ef;
+    border-width: 2.5px;
+}
+
+#pictures{
+    background-color: #c4deee; 
+    padding: 32px;
+    border-style: dashed;
+    border-color: #546689;
+    border-width: 2.5px;
+}
+
+body{
+    background-color: #ede1f4;  
 }
