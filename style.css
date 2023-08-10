@@ -10,10 +10,7 @@
     padding-top: 3em;
 }
 #cakes {
-    max-width: 400px;
-    max-height: auto;
     background-color: #7e9ad3;
-    padding: 12px;
     border-style: dashed;
     border-color: #546689;
     border-width: 2.5px;
@@ -31,6 +28,8 @@ h1{
     border-style: dashed;
     border-color: #bac0ef;
     border-width: 2.5px;
+    border-radius: 1rem;
+    padding: 32px;
 }
 
 #pictures{
@@ -39,8 +38,14 @@ h1{
     border-style: dashed;
     border-color: #546689;
     border-width: 2.5px;
+    border-radius: 1rem;
 }
 
 body{
     background-color: #ede1f4;  
+    padding-top: 75px;
+    
+}
+.content {
+    max-width: 1340px;
 }

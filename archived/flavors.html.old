@@ -1,0 +1,158 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+  <link rel="stylesheet" href="style.css">
+  <title>Flavors</title>
+</head>
+
+<body>
+  <header>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="#">Navbar</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+          aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav">
+            <li class="nav-item">
+              <a class="nav-link " aria-current="page" href="index.html">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link active" href="flavors.html">Flavors</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="order.html">Order</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+  </header>
+
+  <h1>
+    Cake flavors
+  </h1>
+  <h5>
+    Lemon: Butter (2 sticks) , granulated sugar (2 cups), vanilla extract (2 teaspoons), lakes eggs (4), all purpose
+    flour (3 cups), baking powder (2 teaspoons), sea salt (¼ teaspoons), whole milk (1.75 cup), lemon juice (¼ cup)
+  </h5>
+
+  <h5>
+    Brown sugar: Butter (2 sticks) , brown sugar (2 cups), vanilla extract (2 teaspoons), lakes eggs (4), all purpose
+    flour (3 cups), baking powder (2 teaspoons), sea salt (¼ teaspoons), whole milk (1.75 cup)
+  </h5>
+  <h5>
+    Lime: Butter (2 sticks) , granulated sugar (2 cups), vanilla extract (2 teaspoons), lakes eggs (4), all purpose
+    flour (3 cups), baking powder (2 teaspoons), sea salt (¼ teaspoons), whole milk (1.75 cup), lime juice (¼ cup)
+  </h5>
+  <h5>
+    Blueberry Butter (2 sticks) , granulated sugar (2 cups), vanilla extract (2 teaspoons), lakes eggs (4), all purpose
+    flour (3 cups), baking powder (2 teaspoons), sea salt (¼ teaspoons), whole milk (1.75 cup), blueberries (2 cups)
+  </h5>
+  <h5>
+    Cinnamon: Butter (2 sticks) , brown sugar (2 cups), vanilla extract (2 teaspoons), lakes eggs (4), all purpose flour
+    (3 cups), baking powder (2 teaspoons), sea salt (¼ teaspoons), whole milk (1.75 cup), cinnamon (1 tablespoon)
+  </h5>
+  <h5>
+    Carrot: Butter (2 sticks) , granulated sugar (2 cups), vanilla extract (2 teaspoons), lakes eggs (4), all purpose
+    flour (3 cups), baking powder (2 teaspoons), sea salt (¼ teaspoons), whole milk (1.75 cup), pumpkin pie spice (1
+    tablespoon), carrots ( 2 cups), chopped walnuts (1 cup)
+  </h5>
+  <h5>
+    Funfetti: Butter (2 sticks) , granulated sugar (2 cups), vanilla extract (2 teaspoons), lakes eggs (4), all purpose
+    flour (3 cups), baking powder (2 teaspoons), sea salt (¼ teaspoons), whole milk (1.75 cup), rainbow sprinkles (1
+    cup)
+  </h5>
+  <h5>
+    Peanut butter: Butter (2 sticks) , granulated sugar (2 cups), vanilla extract (2 teaspoons), lakes eggs (4), all
+    purpose flour (3 cups), baking powder (2 teaspoons), sea salt (¼ teaspoons), whole milk (1.75 cup), peanut butter (1
+    cup)
+  </h5>
+  <h5>
+    Pumpkin spice: Butter (2 sticks) , light brown sugar (2 cups), vanilla extract (2 teaspoons), lakes eggs (4), all
+    purpose flour (3 cups), baking powder (2 teaspoons), sea salt (¼ teaspoons), whole milk (1.75 cup), pumpkin pie
+    spice (1 tablespoon), pumpkin puree (15 ounces)
+  </h5>
+  <h5>
+    Coconut: Butter (2 sticks) , granulated sugar (2 cups), vanilla extract (2 teaspoons), lakes eggs (4), all purpose
+    flour (3 cups), baking powder (2 teaspoons), sea salt (¼ teaspoons), whole milk (1.75 cup), Coco Lopez cream of
+    coconut (½ cup). Shredded coconut (1 cup)
+  </h5>
+
+  <h1>
+    Frosting Flavors
+  </h1>
+
+  <h5>
+    Lemon: Butter (2 sticks), confectioners sugar (3.25 cups), sea salt (¼ teaspoons), , lemon zest (½ teaspoons), lemon
+    juice (1 tablespoon)
+  </h5>
+  <h5>
+    Lime: Butter (2 sticks), confectioners sugar (3.25 cups), sea salt (¼ teaspoons), whole milk (1.75 cup), lime zest
+    (½ teaspoons), lime juice (1 tablespoon)
+  </h5>
+  <h5>
+    Matcha: : Butter (2 sticks), confectioners sugar (3.25 cups), vanilla extract (1 teaspoons), sea salt (¼ teaspoons),
+    green tea powder (2 tablespoons)
+  </h5>
+  <h5>
+    Mint: : Butter (2 sticks), confectioners sugar (3.25 cups), vanilla extract (1 teaspoons), sea salt (¼ teaspoons),
+    mint (⅓ cup), lemon juice (2 teaspoons)
+  </h5>
+  <h5>
+    Strawberry: : Butter (2 sticks), confectioners sugar (3.25 cups), vanilla extract (1 teaspoons), sea salt (¼
+    teaspoons), strawberry puree ( 6 tablespoons)
+  </h5>
+  <h5>
+    Cinnamon: : Butter (2 sticks), confectioners sugar (3.25 cups), vanilla extract (1 teaspoons), sea salt (¼
+    teaspoons), ground cinnamon (1 tablespoon)
+  </h5>
+  <h5>
+    Carmel: : Butter (2 sticks), confectioners sugar (3.25 cups), vanilla extract (1 teaspoons), sea salt (¼ teaspoons),
+    whole milk (1.75 cup), all purpose flour (¼ cup)
+  </h5>
+  <h5>
+    Snickerdoodle: : Butter (2 sticks), confectioners sugar (3.25 cups), vanilla extract (1 teaspoons), sea salt (¼
+    teaspoons), ground cinnamon (1 tablespoon), heavy cream (¾ cups)
+  </h5>
+  <h5>
+    Peanut butter: : Butter (2 sticks), confectioners sugar (3.25 cups), vanilla extract (1 teaspoons), sea salt (¼
+    teaspoons), whole milk (1.75 cup), peanut butter (1.25 cups)
+  </h5>
+  <h5>
+    Cream cheese: Butter (2 sticks), confectioners sugar (3.25 cups), vanilla extract (1 teaspoons), sea salt (¼
+    teaspoons), whole milk (1.75 cup), full-fat cream cheese (8 ounces)
+  </h5>
+  <h5>
+    Pumpkin spice: Butter (2 sticks), confectioners sugar (3.25 cups), vanilla extract (1 teaspoons), sea salt (¼
+    teaspoons), whole milk (1.75 cup), pumpkin spice (1 tablespoon)
+  </h5>
+  <h5>
+    Vanilla glaze: Whole milk (4 tablespoons), confectioners sugar (2 cups), vanilla extract (1/2 teaspoons)
+  </h5>
+  <h5>
+    Coconut: Butter (1 sticks), confectioners sugar (3.25 cups), vanilla extract (1 teaspoons), sea salt (¼ teaspoons),
+    whole milk (1.75 cup), coconut milk (13.5 ounces), coconut extract (½ teaspoon)
+  </h5>
+
+  <!-- Optional JavaScript; choose one of the two! -->
+
+  <!-- Option 1: Bootstrap Bundle with Popper -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+    crossorigin="anonymous"></script>
+
+
+</body>
+
+</html>
